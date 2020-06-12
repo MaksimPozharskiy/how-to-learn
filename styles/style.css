@@ -178,7 +178,7 @@
 
 /* Feynman */
 
-.feinman {
+.feynman {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -211,7 +211,7 @@
   left: 0;
   bottom: 0;
   z-index: 0;
-  width: 867px;;
+  width: 867px;
   height: 637px;
 }
 
