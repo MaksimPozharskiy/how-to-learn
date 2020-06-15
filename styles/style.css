@@ -54,6 +54,10 @@
   color: #2f80ed;
 }
 
+.header__link:hover {
+  text-decoration: underline;
+}
+
 .header__main-illustration {
   position: absolute;
   right: 0;
@@ -220,6 +224,10 @@
   text-decoration: none;
 }
 
+.feynman__link:hover {
+  text-decoration: underline;
+}
+
 .feynman__link:visited {
   color: #000;
 }
@@ -321,6 +329,10 @@
   font-weight: normal;
   text-decoration: none;
   color: #fff;
+}
+
+.footer__column-link:hover {
+  text-decoration: underline;
 }
 
 .footer__column-link:visited {
