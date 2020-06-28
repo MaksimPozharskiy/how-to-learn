@@ -1,4 +1,7 @@
+
+@import url(../styles/normalize.css);
 @import url(../blocks/page/page.css);
+@import url(../blocks/rotation/rotation.css);
 
 /* Header */
 
