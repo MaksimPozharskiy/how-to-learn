@@ -1,6 +1,6 @@
 .feynman__title {
   z-index: 1;
-  width: 648px;
+  max-width: 648px;
   margin: 0;
   text-align: center;
   line-height: 1.15;
